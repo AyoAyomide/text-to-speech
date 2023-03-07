@@ -1,0 +1,4 @@
+# basic git ignore files
+/node_modules
+key.json
+.env
